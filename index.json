@@ -26,6 +26,15 @@
       "keywords": [],
       "path": "quiz/korean/intermediate/education_&_school.json",
       "createdAt": "2025-05-01T10:26:45.708Z"
+    },
+    {
+      "id": "1746103234353",
+      "language": "korean",
+      "category": "Daily Conversation",
+      "level": "intermediate",
+      "keywords": [],
+      "path": "quiz/korean/intermediate/daily_conversation.json",
+      "createdAt": "2025-05-01T12:40:34.353Z"
     }
   ]
 }
